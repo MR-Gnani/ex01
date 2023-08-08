@@ -28,7 +28,7 @@
 </head>
 <body>
 <div id="wrap">
-<!-- 헤더파일들어가는 곳 -->
+<!-- 헤더파일들어가는 곳-->
 <jsp:include page="../INC/top.jsp"></jsp:include>
 <!-- 헤더파일들어가는 곳 -->
 <!-- 메인이미지 들어가는곳 -->
